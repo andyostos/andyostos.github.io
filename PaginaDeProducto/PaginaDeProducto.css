@@ -132,3 +132,14 @@
 .list-group-item{
   padding-top: 2vw !important;
 }
+
+#link-artista{
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+
+#link-artista:hover {
+  color: #000000 !important;
+  text-decoration:underline !important;
+  transition: font-size 0.3s ease; 
+}
