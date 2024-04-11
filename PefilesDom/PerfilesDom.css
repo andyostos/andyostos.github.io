@@ -103,5 +103,13 @@
     font-family:"Montserrat" !important;
 }
 
+.link-artista{
+    color: #000000 !important;
+}
 
+.link-artista:hover {
+    color: #000000;
+    font-size: 1.2em; 
+    transition: font-size 0.3s ease; 
+}
 
